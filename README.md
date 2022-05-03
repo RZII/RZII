@@ -1,6 +1,6 @@
 -Hi, I’m @RZII.<br/>
 -I’m an undergraduate student at University of Michigan, class of 2025.<br/>
--I'm majored in Computer Science and Mathematics.<br/>
+-I'm double-majored in Computer Science and Mathematics.<br/>
 -I have taken a course in C language, and currently studying CS 61A (from UC Berkeley), and plan to study CS 61B right after I finish CS 61A.<br/>
 -How to reach me: randal.zhang7@gmail.com<br/>
 
