@@ -1,6 +1,7 @@
 -Hi, I’m @RZII
--I’m currently a first year engineering student in University of Toronto.
--I am pretty new to Computer Science, as I am having my first programming course right now studying C language.
+-I’m an undergraduated student at University of Michigan, majored in Computer Science and Mathematics.
+-I am pretty new to Computer Science.
+-I have taken a course in C language, and currently studying CS 61A (from UC Berkeley), and plan to study CS 61B right after I finish CS 61A.
 -How to reach me: randal.zhang7@gmail.com
 
 <!---
