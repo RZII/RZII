@@ -1,6 +1,5 @@
 -Hi, I’m RZII.<br/>
--I’m an undergraduate student at University of Michigan, class of 2025.<br/>
--I'm majored in Computer Science, and I may consider to pursue a double major in Mathematics (more of Applied Maths).<br/>
+-I’m a rising sophomore at University of Michigan studying Computer Science.<br/>
 -I have taken a course in C language, and currently studying CS 61A (SICP).<br/>
 -My summer plan is to study CS 61B (Data Structures) and CS 70 (Discrete Mathematics) right after I finish CS 61A.<br/>
 -How to reach me: randal.zhang7@gmail.com<br/>
