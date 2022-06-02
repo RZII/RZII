@@ -1,5 +1,5 @@
 -Hi, I’m RZII.<br/>
--I’m a rising sophomore at University of Michigan studying Computer Science.<br/>
+-I’m a rising sophomore studying Computer Science.<br/>
 
 
 <!---
