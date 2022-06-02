@@ -1,5 +1,6 @@
--Hi, I’m RZII.<br/>
--I’m a rising sophomore studying Computer Science.<br/>
+Hi, I’m RZII.<br/>
+I’m a rising sophomore studying Computer Science.<br/>
+This is my very plain [personal website](https://rzii.github.io)
 
 
 <!---
