@@ -1,5 +1,5 @@
 Hi, I’m RZII.<br/>
-I’m a rising sophomore studying Computer Science.<br/>
+I’m a sophomore studying Computer Science.<br/>
 This is my very rough [personal website](https://rzii.github.io)
 
 
