@@ -1,5 +1,5 @@
 Hi, I’m RZII.<br/>
-I’m a sophomore majoring in Computer Science and Honors Mathematics.<br/>
+I’m majoring in Computer Science and Honors Mathematics.<br/>
 This is my very rough [personal website](https://rzii.github.io)
 
 
